@@ -10,9 +10,24 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("I Am Rich")
-            .font(.title)
+        ZStack {
+            Color(.systemPink)
+                .edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+            //command + click  : Make an Vertical Stack
+            VStack {
+                Text("I Am Rich")
+                    .font(.system(size: 40))
+                    .foregroundColor(Color.gray)
+                    .multilineTextAlignment(.center)
+                Image("Launcher Icon 512")
+                    .resizable()           .aspectRatio(contentMode: .fit)
+                    .frame(width: 200, height: 200, alignment: .center)
+                
+                
+            }
             
+        }
+        
     }
 }
 
