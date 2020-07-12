@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:I Am Rich.xcodeproj">
+      location = "self:/Users/dustin/Desktop/I Am Rich/SwiftUI Turorial1.xcodeproj">
    </FileRef>
 </Workspace>

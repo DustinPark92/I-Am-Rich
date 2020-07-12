@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DA687D7124BAE2CE00C5811C /* I Am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA687D7124BAE2CE00C5811C /* SwiftUI Turorial1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Turorial1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA687D7424BAE2CE00C5811C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DA687D7624BAE2CE00C5811C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DA687D7824BAE2CE00C5811C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		DA687D7224BAE2CE00C5811C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DA687D7124BAE2CE00C5811C /* I Am Rich.app */,
+				DA687D7124BAE2CE00C5811C /* SwiftUI Turorial1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DA687D7024BAE2CE00C5811C /* I Am Rich */ = {
+		DA687D7024BAE2CE00C5811C /* SwiftUI Turorial1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA687D8524BAE2CF00C5811C /* Build configuration list for PBXNativeTarget "I Am Rich" */;
+			buildConfigurationList = DA687D8524BAE2CF00C5811C /* Build configuration list for PBXNativeTarget "SwiftUI Turorial1" */;
 			buildPhases = (
 				DA687D6D24BAE2CE00C5811C /* Sources */,
 				DA687D6E24BAE2CE00C5811C /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = "I Am Rich";
+			name = "SwiftUI Turorial1";
 			productName = "I Am Rich";
-			productReference = DA687D7124BAE2CE00C5811C /* I Am Rich.app */;
+			productReference = DA687D7124BAE2CE00C5811C /* SwiftUI Turorial1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DA687D6C24BAE2CE00C5811C /* Build configuration list for PBXProject "I Am Rich" */;
+			buildConfigurationList = DA687D6C24BAE2CE00C5811C /* Build configuration list for PBXProject "SwiftUI Turorial1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DA687D7024BAE2CE00C5811C /* I Am Rich */,
+				DA687D7024BAE2CE00C5811C /* SwiftUI Turorial1 */,
 			);
 		};
 /* End PBXProject section */
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DA687D6C24BAE2CE00C5811C /* Build configuration list for PBXProject "I Am Rich" */ = {
+		DA687D6C24BAE2CE00C5811C /* Build configuration list for PBXProject "SwiftUI Turorial1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA687D8324BAE2CF00C5811C /* Debug */,
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA687D8524BAE2CF00C5811C /* Build configuration list for PBXNativeTarget "I Am Rich" */ = {
+		DA687D8524BAE2CF00C5811C /* Build configuration list for PBXNativeTarget "SwiftUI Turorial1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA687D8624BAE2CF00C5811C /* Debug */,
